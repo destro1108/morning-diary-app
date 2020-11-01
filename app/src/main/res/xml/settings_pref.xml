@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="30"
+        android:key="delete_task_after"
+        android:title="Delete Tasks"
+        android:icon="@drawable/icon_delete"
+        android:summary="Delete Tasks After how many Days"
+        />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="saveEventToCal"
+        android:title="Save Events to Calendar"
+        android:icon="@drawable/menu_day_view"
+        android:summary="Add Events to your default Calendar App"
+        />
+
+</PreferenceScreen>
