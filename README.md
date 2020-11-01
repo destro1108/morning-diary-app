@@ -1,7 +1,7 @@
-# morning-diary-app
+# Morning Diary
     A to-do list tracking app for day to day basis.
     
-# usage
+## Usage
 Just clone the repo using Android Studio
 
 ## Contributing
